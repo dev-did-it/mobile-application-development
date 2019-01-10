@@ -2,6 +2,8 @@
 
 **View branches for course work**
 
+### Assignment 1
+
 ###### Course Description
 The objective of this course is to expose students to the state of the art in mobile application development. Students will learn
 about mobile operating systems, wireless networks, communication protocols, native and cross‐platform mobile application
