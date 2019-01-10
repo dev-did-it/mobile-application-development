@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Product</string>
+    <string name="add_product">Add a Product</string>
+    <string name="delete_product">Are you sure you want to delete this product?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="product_id_heading">Product ID</string>
+    <string name="product_name_heading">Name</string>
+    <string name="product_description_heading">Description</string>
+    <string name="price_cad_heading">CAD</string>
+    <string name="price_BTC_heading">BTC</string>
+    <string name="action_settings">Settings</string>
+</resources>
